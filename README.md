@@ -1,4 +1,4 @@
-# Retail_sales_Analysis_SQL_Project
+# Retail_Sales_Analysis_SQL_Project
 
 ## **Problem Statement**
 Retail businesses generate a large volume of data every day, making it challenging to gain insights from raw data. This project focuses on cleaning, exploring, and analyzing retail sales data to uncover patterns and answer key business questions.
